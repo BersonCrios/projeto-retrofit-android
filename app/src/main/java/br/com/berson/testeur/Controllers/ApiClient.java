@@ -1,16 +1,16 @@
 package br.com.berson.testeur.Controllers;
 
-        import android.util.Log;
-        import com.google.gson.JsonObject;
-        import java.util.concurrent.TimeUnit;
+import android.util.Log;
+import com.google.gson.JsonObject;
+import java.util.concurrent.TimeUnit;
 
-        import br.com.berson.testeur.Utils.Constants;
-        import okhttp3.OkHttpClient;
-        import okhttp3.Request;
-        import okhttp3.logging.HttpLoggingInterceptor;
-        import retrofit2.Call;
-        import retrofit2.Retrofit;
-        import retrofit2.converter.gson.GsonConverterFactory;
+import br.com.berson.testeur.Utils.Constants;
+import okhttp3.OkHttpClient;
+import okhttp3.Request;
+import okhttp3.logging.HttpLoggingInterceptor;
+import retrofit2.Call;
+import retrofit2.Retrofit;
+import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
     private static Retrofit retrofit = null;
