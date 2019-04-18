@@ -1,3 +1,4 @@
 # Projeto Pokedex Go
 
-![Lista](img/pag2.jpeg) ![Detalhes](img/pag1.jpeg)
+<img src="img/pag2.jpeg" width="10" height="50"/>
+<img src="img/pag1.jpeg" width="10" height="50"/>
